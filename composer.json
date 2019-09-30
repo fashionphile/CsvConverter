@@ -1,5 +1,5 @@
 {
-    "name": "dgillette/csv-converter",
+    "name": "fashionphile/csv-converter",
     "type": "library",
     "description": "Converts arrays, objects or Laravel collections into csv",
     "keywords": ["laravel","excel","csv","php","array"],
